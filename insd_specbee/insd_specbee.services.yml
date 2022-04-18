@@ -1,0 +1,3 @@
+services:
+  insd_specbee.timezone_listing:
+    class: Drupal\insd_specbee\Services\Timezone

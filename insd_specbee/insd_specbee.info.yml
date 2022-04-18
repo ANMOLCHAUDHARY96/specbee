@@ -1,0 +1,6 @@
+name: 'Specbee'
+type: module
+description: 'Manages Time and Location Data.'
+core: 8.x
+package: 'Insead'
+core_version_requirement: ^8 || ^9

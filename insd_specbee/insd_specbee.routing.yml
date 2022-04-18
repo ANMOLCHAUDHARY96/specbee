@@ -1,0 +1,9 @@
+insd_specbee.specbee_global_config_form_route:
+  path: '/admin/config/system/specbee-global-config'
+  defaults:
+    _form: '\Drupal\insd_specbee\Form\SpecbeeConfigForm'
+    _title: 'Specbee Global Configuration Form'
+  requirements:
+    _permission: 'administer site configuration'
+  options:
+    _admin_route: TRUE

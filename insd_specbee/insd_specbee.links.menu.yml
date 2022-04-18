@@ -1,0 +1,6 @@
+insd_insd_specbee.insd_global_config_form:
+  title: 'Specbee Global Configs'
+  route_name: insd_specbee.specbee_global_config_form_route
+  description: 'Specbee Configurations for integrations.'
+  parent: system.admin_config_system
+  weight: 1
